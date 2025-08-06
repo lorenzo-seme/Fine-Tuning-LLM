@@ -1,0 +1,202 @@
+[
+  {
+    "input": "What are some reliable starter houseplants for beginners?",
+    "output": "Easy-care plants like ZZ Plant, Pothos, Spider Plant, and Snake Plant are ideal for beginners—they tolerate low light and occasional neglect." 
+  },
+  {
+    "input": "How can busy people maintain healthy houseplants?",
+    "output": "Choose low-maintenance species and water only when the soil is dry. Succulents or hardy foliage plants can thrive with minimal effort." 
+  },
+  {
+    "input": "How do you know when to water indoor plants?",
+    "output": "Tap the pot side—if it sounds hollow, soil is likely dry. Avoid watering on a schedule; check moisture manually instead." 
+  },
+  {
+    "input": "Can cold water harm indoor plants?",
+    "output": "Yes. Use lukewarm or room‑temperature water to avoid shocking roots and reduce risk of damage." 
+  },
+  {
+    "input": "Where’s the best spot to place indoor plants?",
+    "output": "Near windows with bright indirect light. Avoid direct sun which can scorch leaves." 
+  },
+  {
+    "input": "Why are my plant leaves drooping or yellowing?",
+    "output": "Drooping leaves can result from overwatering or underwatering. Check soil moisture and adjust location for better light." 
+  },
+  {
+    "input": "Why do leaf tips turn brown?",
+    "output": "Brown tips often mean low humidity, excessive salts, or poor drainage. Flush soil or improve humidity levels." 
+  },
+  {
+    "input": "What causes water droplets on leaves?",
+    "output": "Plant transpiration can cause condensation on humid days; ensure good air circulation." 
+  },
+  {
+    "input": "How should you care for houseplants in winter?",
+    "output": "Reduce watering and move plants to bright spots; some species enter dormancy and need less care." 
+  },
+  {
+    "input": "How to prevent fungus gnats in houseplant soil?",
+    "output": "Let soil dry slightly, remove top debris, and use sand or yellow sticky traps to deter fungus gnats." 
+  },
+  {
+    "input": "What type of soil is best for indoor pots?",
+    "output": "Use well‑draining potting mix with ingredients like perlite, compost, or bark to prevent compacted soil." 
+  },
+  {
+    "input": "How do indoor plants affect air quality?",
+    "output": "Houseplants like Snake Plant and Areca Palm help remove toxins and improve humidity indoors." 
+  },
+  {
+    "input": "Which indoor plants are pet-safe?",
+    "output": "Plants such as spider plants and Pilea peperomioides are generally considered pet-safe, but always check species-specific toxicity." 
+  },
+  {
+    "input": "Should you mist indoor plants?",
+    "output": "Misting can boost humidity for tropical plants, but it’s better to use pebble trays or humidifiers for consistent moisture." 
+  },
+  {
+    "input": "How often should indoor plants be fertilized?",
+    "output": "Feed every 4–6 weeks during active growth seasons with a diluted balanced fertilizer; skip in dormancy." 
+  },
+  {
+    "input": "When is the right time to repot a plant?",
+    "output": "Repot every 2 years or when roots emerge from drainage holes—choose a pot just one size larger." 
+  },
+  {
+    "input": "How to aerate compacted potting soil?",
+    "output": "Gently insert a wooden stick into soil to loosen it, improving root oxygenation and drainage." 
+  },
+  {
+    "input": "Why does my plant bloom poorly indoors?",
+    "output": "Flowering plants may need more light or a phosphorus-rich fertilizer to initiate blooms." 
+  },
+  {
+    "input": "Should indoor plants be rotated?",
+    "output": "Yes—rotating ensures even light exposure and symmetrical growth." 
+  },
+  {
+    "input": "How to revive wilted houseplants?",
+    "output": "Check soil moisture and drainage, prune dead foliage, and ensure correct light and humidity." 
+  },
+  {
+    "input": "Is it safe to take plants outdoors in summer?",
+    "output": "Yes, but acclimate slowly to avoid sunburn or shock from rapid changes in light and temperature." 
+  },
+  {
+    "input": "Why are houseplant leaves scorched?",
+    "output": "Scorch marks come from too much direct sun. Move plant to bright indirect light." 
+  },
+  {
+    "input": "How do pests like spider mites appear?",
+    "output": "Look under leaves for webs or speckles. Increase humidity and treat with insecticidal soap." 
+  },
+  {
+    "input": "What indicates overfertilization?",
+    "output": "Crisp leaf edges, white crust on soil, stunted growth—it’s best to flush soil with water." 
+  },
+  {
+    "input": "How can poor drainage cause issues?",
+    "output": "Soggy soil leads to root rot because roots cannot breathe. Ensure drainage holes and proper soil mix." 
+  },
+  {
+    "input": "What’s ideal humidity for tropical plants?",
+    "output": "60–70% humidity—use pebble trays or humidifiers, especially in dry indoor environments." 
+  },
+  {
+    "input": "Why do variegated leaves sometimes turn solid green?",
+    "output": "Low light reduces variegation pigmentation. Provide bright indirect light to preserve patterns." 
+  },
+  {
+    "input": "How to avoid root bound plants?",
+    "output": "Repot into a slightly larger pot when roots circle tightly. Refresh soil and loosen root ball." 
+  },
+  {
+    "input": "How to handle pet accidents on soil?",
+    "output": "Remove contaminated soil layer, replace with fresh mix, and ensure no stagnant moisture remains." 
+  },
+  {
+    "input": "Is tap water safe for houseplants?",
+    "output": "Let tap water sit overnight so chlorine dissipates, or use filtered water to prevent mineral buildup." 
+  },
+  {
+    "input": "How to choose pot size?",
+    "output": "Avoid pots too large—roots focus on filling space, not growing. Choose slightly larger size each repot." 
+  },
+  {
+    "input": "Why is new growth slow?",
+    "output": "Slow growth can be due to low light, cold temperatures, or insufficient nutrients." 
+  },
+  {
+    "input": "What signs show plant stress?",
+    "output": "Leggy stems, yellow leaves, slow growth, or pests indicate environmental stress." 
+  },
+  {
+    "input": "How to acclimate plants from outdoors?",
+    "output": "Introduce them gradually to indoor light and temperature over a week to prevent shock." 
+  },
+  {
+    "input": "Why is topsoil crusting over?",
+    "output": "Salt buildup from fertilizer—scrape crust and replace soil surface periodically." 
+  },
+  {
+    "input": "What soil amendment improves drainage?",
+    "output": "Add perlite, pumice, or bark chips to improve airflow and prevent compaction." 
+  },
+  {
+    "input": "Are scented candles bad for plants?",
+    "output": "Strong scents or chemicals may stress sensitive foliage. Ensure good ventilation." 
+  },
+  {
+    "input": "Can music affect plant growth?",
+    "output": "No solid scientific evidence—focus on light, water, and soil care instead." 
+  },
+  {
+    "input": "How to avoid pests after watering?",
+    "output": "Use dry soil surface, remove fallen leaves, and allow pots to dry between sessions." 
+  },
+  {
+    "input": "Can indoor plants suffer from drafts?",
+    "output": "Yes. Keep plants away from cold drafts and heating vents to avoid leaf damage." 
+  },
+  {
+    "input": "What light levels suit low-light plants?",
+    "output": "Low-light plants thrive in shady corners or north-facing rooms with no direct sun." 
+  },
+  {
+    "input": "How does leaf color indicate lighting?",
+    "output": "Pale and limp leaves often mean insufficient light; rich color indicates healthy exposure." 
+  },
+  {
+    "input": "What causes compacted potting mix?",
+    "output": "Over-watering and soil breakdown; aerate occasionally or use fresh mix." 
+  },
+  {
+    "input": "Why repot yearly?",
+    "output": "Older soil loses nutrients—replace every 1–2 years to refresh nutrients and structure." 
+  },
+  {
+    "input": "How to clean dusty leaves?",
+    "output": "Gently wipe leaves with damp cloth to improve photosynthesis." 
+  },
+  {
+    "input": "Why do leaves curl?",
+    "output": "Curling can indicate underwatering, pests, or reaction to temperature extremes." 
+  },
+  {
+    "input": "What temperature range is ideal?",
+    "output": "Most indoor plants thrive at 18–24 °C (65–75 °F). Avoid sudden temperature swings." 
+  },
+  {
+    "input": "Is bathroom humidity beneficial?",
+    "output": "Bathrooms provide natural humidity—ideal for ferns and orchids, if light is sufficient." 
+  },
+  {
+    "input": "How to rescue overwatered plants?",
+    "output": "Remove soggy soil, trim rotten roots, repot with fresh dry mix, and reduce watering." 
+  },
+  {
+    "input": "How to avoid alga on pot surface?",
+    "output": "Ensure good drainage, moderate watering, and allow top layer to dry between waterings." 
+  }
+]
